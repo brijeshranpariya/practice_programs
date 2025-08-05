@@ -7,6 +7,7 @@ practice_programs
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/brijeshranpariya/practice_programs/tree/master/0014-longest-common-prefix) |
+| [1582-design-browser-history](https://github.com/brijeshranpariya/practice_programs/tree/master/1582-design-browser-history) |
 ## String
 |  |
 | ------- |
@@ -42,9 +43,26 @@ practice_programs
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/brijeshranpariya/practice_programs/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/brijeshranpariya/practice_programs/tree/master/0206-reverse-linked-list) |
+| [1582-design-browser-history](https://github.com/brijeshranpariya/practice_programs/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/brijeshranpariya/practice_programs/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/brijeshranpariya/practice_programs/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/brijeshranpariya/practice_programs/tree/master/1582-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/brijeshranpariya/practice_programs/tree/master/1582-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/brijeshranpariya/practice_programs/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/brijeshranpariya/practice_programs/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->

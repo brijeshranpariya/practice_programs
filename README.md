@@ -12,6 +12,7 @@ practice_programs
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/brijeshranpariya/practice_programs/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/brijeshranpariya/practice_programs/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/brijeshranpariya/practice_programs/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/brijeshranpariya/practice_programs/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
@@ -52,6 +53,7 @@ practice_programs
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/brijeshranpariya/practice_programs/tree/master/0020-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/brijeshranpariya/practice_programs/tree/master/1582-design-browser-history) |
 ## Design
 |  |

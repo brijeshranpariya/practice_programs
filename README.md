@@ -70,4 +70,8 @@ practice_programs
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/brijeshranpariya/practice_programs/tree/master/1582-design-browser-history) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/brijeshranpariya/practice_programs/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->

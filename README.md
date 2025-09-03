@@ -34,6 +34,7 @@ practice_programs
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/brijeshranpariya/practice_programs/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/brijeshranpariya/practice_programs/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -54,10 +55,12 @@ practice_programs
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/brijeshranpariya/practice_programs/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/brijeshranpariya/practice_programs/tree/master/0232-implement-queue-using-stacks) |
 | [1582-design-browser-history](https://github.com/brijeshranpariya/practice_programs/tree/master/1582-design-browser-history) |
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/brijeshranpariya/practice_programs/tree/master/0232-implement-queue-using-stacks) |
 | [1582-design-browser-history](https://github.com/brijeshranpariya/practice_programs/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
